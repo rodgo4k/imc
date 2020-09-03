@@ -1,4 +1,4 @@
-# imc
+# IMC
 
 To install the dependencies use the command:
 
