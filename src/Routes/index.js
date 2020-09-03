@@ -7,8 +7,7 @@ import Nos from '../Nos';
 const Routes = () => (
    <Router>
       <Scene key = "root">
-         <Scene key = "home" component = {Home} title = "Início"  />
-         {/* initial = {true} */}
+         <Scene key = "home" component = {Home} title = "Início" initial = {true} />
          <Scene key = "imc" component = {Imc} title = "Calculo do IMC" />
          <Scene key = "nos" component = {Nos} title = "Sobre nós" />
       </Scene>
