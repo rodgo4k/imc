@@ -10,7 +10,7 @@ This app was developed with React Native and styled with Styled Components using
 4. react-native-reanimated: "^1.13.0"
 5. react-native-router-flux: "^4.2.0"
 6. react-native-screens: "^2.10.1"
-7. styled-components: "^5.1.1
+7. styled-components: "^5.1.1"
 
 To install the dependencies use the command:
 
