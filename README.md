@@ -35,7 +35,7 @@ to run a test using jest
 To contribute to this project you should:
 
 1. Fork this project
-2. Create a Branch to you Feature (git checkout -b feature/MyFeature)
+2. Create a Branch to your Feature (git checkout -b feature/MyFeature)
 3. Add your changes (git add .)
 4. Commit your changes (git commit -m "commiting my feature")
 5. Push your Branch to the project  (git push origin feature/MyFeature)
