@@ -2,6 +2,8 @@
 
 This app was developed with React Native and styled with Styled Components using javascript to calculate the body mass index of the user. You can input a user's height and weight and the app calculate the BMI and shows a chart indicating wether the user is with their ideal body mass or not.
 
+## Dependencies
+
 To install the dependencies use the command:
 
 ###  `npm install` or `yarn`
