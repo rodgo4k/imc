@@ -29,3 +29,17 @@ to run the app on your ios emulator
 ###  `npm run test` or `yarn test`
 
 to run a test using jest
+
+## Contribution
+
+To contribute to this project you should:
+
+1. Fork this project
+2. Create a Branch to you Feature (git checkout -b feature/MyFeature)
+3. Add your changes (git add .)
+4. Commite your changes (git commit -m "commiting my feature")
+5. Push your Branch to the project  (git push origin feature/MyFeature)
+6. Open a Pull Request
+
+## Contact 
+Rodrigo Prestes - rodrigoaprestes@gmail.com
